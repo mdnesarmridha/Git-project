@@ -1,0 +1,161 @@
+/* Mobile layout 320px */
+@media only screen and (max-width: 767px) {
+  .coloum{width:300px}
+.single-slider h2 {
+    font-size: 25px;
+    line-height: 45px;
+}
+.slider-area {
+    margin-top: 50px;
+}
+.slid h2:after {
+    margin: 30px auto;
+}
+.single-slider p {
+    width: 100%;
+}
+.header-area {
+    padding-bottom: 40px;
+}
+.section-title {
+	text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.single-service {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+}
+.section-title h2 {
+    font-size: 25px;
+}
+.service-title h2 {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.left-expertice {
+    padding-left: 0px;
+}
+.heading-content {
+    width: 100%;
+    text-align: center;
+}
+.single-footing {
+    padding-left: 20px;
+}
+.input {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 25%;
+}
+.input a {
+    padding: 15px 23px 15px 25px;
+}
+.right-expertice a img {
+    height: auto;
+}
+.portflio-left {
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
+.protflio-heading-content {
+    text-align: center;
+}
+.single-portflio-footing {
+    margin-left: 20px;
+}
+.portflio-right {
+    padding-left: 0px;
+    padding-top: 15px;
+}
+.single-image a img {
+    height: auto;
+}
+.awesome-content p {
+    padding: 0px;
+}
+.first-input {
+    width: 100%;
+}
+.section-content {
+    text-align: center;
+}
+.address {
+    padding-left: 30px;
+}
+.footer-right {
+    padding-top: 50px;
+}
+.second-input {
+    width: 100%;
+}
+.third-input {
+    width: 100%; 
+}
+.fourth-input {
+    padding: 15px;
+}
+.footer-top {
+    padding-bottom: 50px;
+}
+
+}
+
+/* Wide Mobile layout 480px */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .coloum{width:450px}
+.text-center {
+    margin-bottom: 15px;
+}
+.mainmenu ul li a {
+    padding: 9px;
+    font-size: 12px;
+}
+
+  
+}
+
+/* Tablet layout 768px */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .coloum{width:750px}
+.header-area {
+    padding-bottom: 50px;
+}
+.left-expertice {
+    padding-left: 15px;
+}
+.mainmenu ul li a {
+    padding: 15px;
+}
+.single-service {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+}
+.service-title h2 {
+    padding-top: 30px;
+    font-size: 14px;
+}
+.section-title {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.right-expertice a img {
+    height: 800px;
+}
+.portflio-left {
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+.section-title h2 {
+    font-size: 35px;
+}
+.ipad-img a img {
+    height: 600px;
+}
+.awesome-content p {
+    padding: 30px 70px 50px 70px;
+}
+  
+}
